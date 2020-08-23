@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/ASCII Text Signature (1) (1) (1) (1)/task/build/
+/ASCII Text Signature (1) (1) (1) (1)/task/out/
+/ASCII Text Signature (1) (1) (1) (1)/task/out/production/classes/
